@@ -1,0 +1,7 @@
+.messageBoxDiv {
+  padding: 10px;
+  margin: 10px;
+  color: white;
+  background-color: rgba(223, 19, 115, 0.25);
+  border-radius: 20px;
+}

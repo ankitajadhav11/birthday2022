@@ -1,0 +1,17 @@
+.accordion-title {
+    display: flex;
+    flex-direction: column;
+}
+
+.Mui-disabled {
+    opacity: 0.5;
+}
+
+.accordion {
+    background-color: #f488ac!important;
+}
+
+.timer {
+    color: white;
+    opacity: 100%;
+}

@@ -1,0 +1,12 @@
+.imageCard {
+  padding: 2px;
+  display: flex;
+  flex-direction: column;
+}
+
+.info {
+  padding: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
