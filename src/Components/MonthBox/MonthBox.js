@@ -1,5 +1,5 @@
 import './MonthBox.css';
-import { Accordion, AccordionDetails, AccordionSummary, Typography } from "@mui/material";
+import { Accordion, AccordionDetails, AccordionSummary, Fade, Typography } from "@mui/material";
 import { useEffect, useState } from "react";
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import LockIcon from '@mui/icons-material/Lock';
@@ -48,7 +48,7 @@ function MonthBox({
     }
 
     return (
-        <div>
+        <Fade in={true}>
             <Accordion disabled={!isUnlocked} className="accordion">
                 <AccordionSummary
                     expandIcon={isUnlocked ? <ExpandMoreIcon /> : <LockIcon />}
@@ -75,7 +75,7 @@ function MonthBox({
             {/* <Accordion>
             
             </Accordion> */}
-        </div>
+        </Fade>
     );
 }
 

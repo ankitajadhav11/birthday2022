@@ -14,17 +14,20 @@ function App() {
   }, []);
 
   const getCurrentTime = async () => {
-    const res = await fetch("http://worldtimeapi.org/api/timezone/Asia/Kolkata");
+    const res = await fetch("https://worldtimeapi.org/api/timezone/Asia/Kolkata");
     const { datetime } = await res.json();
     setCurrentTime(datetime);
   }
   return (
     <Container maxWidth="sm" className="App">
+
       {!isUnlocked ?
         <Lock setIsUnlocked={setIsUnlocked} /> : ""
       }
       {currentTime && isUnlocked ?
         <div className='month-box-div'>
+          <h1 className='title'>Happy Birthday Ankita 🥳</h1>
+          <p className='title'> With love and patience, nothing is impossible.<br />We already have love ❤️ just need to practice some patience.</p>
           <MonthBox
             unlockTime="2022/10/06"
             currentTime={currentTime}

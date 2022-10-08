@@ -1,17 +1,17 @@
 .accordion-title {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 
 .Mui-disabled {
-    opacity: 0.5;
+  opacity: 0.5;
 }
 
 .accordion {
-    background-color: #f488ac!important;
+  background-color: #f488ac !important;
+  border-radius: 10px !important;
 }
 
 .timer {
-    color: white;
-    opacity: 100%;
+  color: white;
 }

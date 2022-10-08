@@ -7,12 +7,22 @@ import oct11th21 from '../../assets/october/oct11th21.jpg'
 import nov4th19 from '../../assets/november/nov4th19.jpg'
 import nov17th19 from '../../assets/november/nov17th19.jpg'
 import nov28th20 from '../../assets/november/nov28th20.jpg'
-import nov28th20_2 from '../../assets/november/nov28th20-2.jpg'
+import nov12th21 from '../../assets/november/nov12th21.jpg'
 
 import dec17th21 from '../../assets/december/dec17th21.jpg'
 import dec25th20 from '../../assets/december/dec25th20.jpg'
 import dec25th21 from '../../assets/december/dec25th21.jpg'
 import dec28th21 from '../../assets/december/dec28th21.jpg'
+
+import jan1st20 from '../../assets/january/jan1st20.jpg'
+import jan1st21 from '../../assets/january/jan1st21.jpg'
+import jan9th21 from '../../assets/january/jan9th21.jpg'
+import jan25th22 from '../../assets/january/jan25th22.jpg'
+
+import feb5th21 from '../../assets/february/feb5th21.jpg'
+import feb14th20 from '../../assets/february/feb14th20.jpg'
+import feb14th21 from '../../assets/february/feb14th21.jpg'
+import feb19th22 from '../../assets/february/feb19th22.jpg'
 
 const data = {
     October: [
@@ -49,19 +59,19 @@ const data = {
             place: "Mumbai, Airport"
         },
         {
-            src: nov28th20,
-            date: "28 November 2020",
-            place: "Mumbai, Oberoi"
-        },
-        {
             src: nov17th19,
             date: "17 November 2019",
             place: "Karnataka, Nandi Hills"
         },
         {
-            src: nov28th20_2,
+            src: nov28th20,
             date: "28 November 2020",
-            place: "Mumbai, Pratap Dhaba"
+            place: "Mumbai, Oberoi"
+        },
+        {
+            src: nov12th21,
+            date: "12 November 2021",
+            place: "Mumbai, near Airport"
         },
     ],
     December: [
@@ -85,7 +95,52 @@ const data = {
             date: "28 December 2021",
             place: "Mumbai, Saptashrungi"
         },
+    ],
+    January: [
+        {
+            src: jan1st20,
+            date: "1 January 2020",
+            place: "Mumbai, Kokan Kinara"
+        },
+        {
+            src: jan1st21,
+            date: "1 January 2021",
+            place: "Mumbai, Shri Datta"
+        },
+        {
+            src: jan9th21,
+            date: "9 January 2021",
+            place: "Nashik, Chaayos"
+        },
+        {
+            src: jan25th22,
+            date: "25 January 2022",
+            place: "Mumbai, Chachha Op"
+        },
+    ],
+    February: [
+        {
+            src: feb5th21,
+            date: "5 February 2021",
+            place: "Pune, Aryavrath"
+        },
+        {
+            src: feb14th20,
+            date: "14 February 2020",
+            place: "Mumbai, Goregoan"
+        },
+        {
+            src: feb14th21,
+            date: "14 February 2021",
+            place: "Miraroad, Dhara's"
+        },
+        {
+            src: feb19th22,
+            date: "19 February 2022",
+            place: "Alibagh, Dewdrop"
+        },
     ]
+
 
 }
 export default data;
