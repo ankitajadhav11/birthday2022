@@ -1,18 +1,26 @@
 {
   "files": {
-    "main.css": "/birthday2022/static/css/main.00826dad.css",
-    "main.js": "/birthday2022/static/js/main.86940f7e.js",
+    "main.css": "/birthday2022/static/css/main.43d90eb6.css",
+    "main.js": "/birthday2022/static/js/main.a1ed4732.js",
     "static/media/dec25th21.jpg": "/birthday2022/static/media/dec25th21.f94fe0a31ec0168dab5e.jpg",
+    "static/media/nov12th21.jpg": "/birthday2022/static/media/nov12th21.92a90776d958b72a0b22.jpg",
     "static/media/dec28th21.jpg": "/birthday2022/static/media/dec28th21.278b90a64308349c4829.jpg",
     "static/media/dec17th21.jpg": "/birthday2022/static/media/dec17th21.ea39744217932bfdc3f9.jpg",
+    "static/media/jan25th22.jpg": "/birthday2022/static/media/jan25th22.5943a52d4200be09b5b3.jpg",
     "static/media/dec25th20.jpg": "/birthday2022/static/media/dec25th20.e3db94f40b8d2df22dcf.jpg",
+    "static/media/jan9th21.jpg": "/birthday2022/static/media/jan9th21.13a359b82b395fdbc818.jpg",
     "static/media/oct11th20.jpg": "/birthday2022/static/media/oct11th20.848600f2b398f447f7ff.jpg",
+    "static/media/feb14th21.jpg": "/birthday2022/static/media/feb14th21.3700164b6466276669be.jpg",
+    "static/media/feb14th20.jpg": "/birthday2022/static/media/feb14th20.e6d9d1f9ed9819288331.jpg",
     "static/media/oct11th19-2.jpg": "/birthday2022/static/media/oct11th19-2.817bf3f0dfedd5a8579a.jpg",
-    "static/media/nov28th20-2.jpg": "/birthday2022/static/media/nov28th20-2.9dfd9030e63888fc7eee.jpg",
+    "static/media/nov28th20.jpg": "/birthday2022/static/media/nov28th20.9dfd9030e63888fc7eee.jpg",
     "static/media/nov4th19.jpg": "/birthday2022/static/media/nov4th19.37b55f611f3730fd29b8.jpg",
+    "static/media/feb19th22.jpg": "/birthday2022/static/media/feb19th22.3c51b4ef06f904b8d0bd.jpg",
+    "static/media/jan1st21.jpg": "/birthday2022/static/media/jan1st21.5a185f9a85a3fc5915c7.jpg",
     "static/media/oct9th19.jpg": "/birthday2022/static/media/oct9th19.1059392a144fea034be9.jpg",
     "static/media/oct11th19.jpg": "/birthday2022/static/media/oct11th19.41c231d1d843ec7c214b.jpg",
-    "static/media/nov28th20.jpg": "/birthday2022/static/media/nov28th20.1699d19f643b7fdc1d71.jpg",
+    "static/media/feb5th21.jpg": "/birthday2022/static/media/feb5th21.4334873fb53e4cf1530c.jpg",
+    "static/media/jan1st20.jpg": "/birthday2022/static/media/jan1st20.c36459fa5f33bef8baf0.jpg",
     "static/media/oct11th21.jpg": "/birthday2022/static/media/oct11th21.fd69e2c172ce50060384.jpg",
     "static/media/nov17th19.jpg": "/birthday2022/static/media/nov17th19.adc57c1c6464c23a5711.jpg",
     "static/media/roboto-all-500-normal.woff": "/birthday2022/static/media/roboto-all-500-normal.0ab669b7a0d19b178f57.woff",
@@ -48,11 +56,11 @@
     "static/media/roboto-greek-ext-300-normal.woff2": "/birthday2022/static/media/roboto-greek-ext-300-normal.35b9d6be04b95f0f0530.woff2",
     "static/media/roboto-greek-ext-700-normal.woff2": "/birthday2022/static/media/roboto-greek-ext-700-normal.bd9854c751441ccc1a70.woff2",
     "index.html": "/birthday2022/index.html",
-    "main.00826dad.css.map": "/birthday2022/static/css/main.00826dad.css.map",
-    "main.86940f7e.js.map": "/birthday2022/static/js/main.86940f7e.js.map"
+    "main.43d90eb6.css.map": "/birthday2022/static/css/main.43d90eb6.css.map",
+    "main.a1ed4732.js.map": "/birthday2022/static/js/main.a1ed4732.js.map"
   },
   "entrypoints": [
-    "static/css/main.00826dad.css",
-    "static/js/main.86940f7e.js"
+    "static/css/main.43d90eb6.css",
+    "static/js/main.a1ed4732.js"
   ]
 }

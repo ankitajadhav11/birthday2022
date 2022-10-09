@@ -24,6 +24,39 @@ import feb14th20 from '../../assets/february/feb14th20.jpg'
 import feb14th21 from '../../assets/february/feb14th21.jpg'
 import feb19th22 from '../../assets/february/feb19th22.jpg'
 
+import mar16th2021 from '../../assets/march/mar16th2021.jpg'
+import mar20th2021 from '../../assets/march/mar20th2021.jpg'
+import mar20th2021_2 from '../../assets/march/mar20th2021-2.jpg'
+
+import apr1 from '../../assets/april/apr1.jpeg'
+import apr2 from '../../assets/april/apr2.jpeg'
+import apr3 from '../../assets/april/apr3.jpeg'
+import apr4 from '../../assets/april/apr4.jpeg'
+import apr5 from '../../assets/april/apr5.jpeg'
+
+import may14th21 from '../../assets/may/may14th21.jpg'
+import may16th19 from '../../assets/may/may16th19.jpg'
+import may21st22 from '../../assets/may/may21st22.jpg'
+import may27th19 from '../../assets/may/may27th19.jpg'
+
+import jun4th20 from '../../assets/june/jun4th20.jpg'
+import jun23rd21 from '../../assets/june/jun23rd21.jpg'
+import jun23rd21_2 from '../../assets/june/jun23rd21-2.jpg'
+
+import jul23rd22 from '../../assets/july/jul23rd22.jpg'
+import jul23rd22_2 from '../../assets/july/jul23rd22-2.jpg'
+import jul24th22 from '../../assets/july/jul24th22.jpg'
+import jul30th22 from '../../assets/july/jul30th22.jpg'
+
+import aug6th21 from '../../assets/august/aug6th21.jpg'
+import aug23rd21 from '../../assets/august/aug23rd21.jpg'
+import aug23rd21_2 from '../../assets/august/aug23rd21-2.jpg'
+import aug23rd22 from '../../assets/august/aug23rd22.jpg'
+
+import sep23rd22 from '../../assets/september/sep23rd22.jpg'
+import sep24th21 from '../../assets/september/sep24th21.jpg'
+import sep30th21 from '../../assets/september/sep30th21.jpg'
+
 const data = {
     October: [
         {
@@ -139,8 +172,141 @@ const data = {
             date: "19 February 2022",
             place: "Alibagh, Dewdrop"
         },
+    ],
+    March: [
+        {
+            src: mar20th2021,
+            date: "20 Match 2021",
+            place: "Mumbai, Oberoi"
+        },
+        {
+            src: mar16th2021,
+            date: "16 March 2021",
+            place: "Mumbai, Oberoi"
+        },
+        {
+            src: mar20th2021_2,
+            date: "20 Match 2021",
+            place: "Mumbai, Thorat's Misal"
+        },
+    ],
+    April: [
+        {
+            src: apr1,
+        },
+        {
+            src: apr2,
+        },
+        {
+            src: apr3,
+        },
+        {
+            src: apr4,
+        },
+        {
+            src: apr5,
+        },
+    ],
+    May: [
+        {
+            src: may14th21,
+            date: "14 May 2021",
+            place: "Mumbai, Sher-e-Panjab"
+        },
+        {
+            src: may16th19,
+            date: "16 May 2019",
+            place: "Kerala, Aishu ki Shadi"
+        },
+        {
+            src: may21st22,
+            date: "21 May 2022",
+            place: "Mumbai, Marin lines"
+        },
+        {
+            src: may27th19,
+            date: "27 May 2019",
+            place: "Kerla, Kochin"
+        },
+    ],
+    June: [
+        {
+            src: jun4th20,
+            date: "4 June 2020",
+            place: "Home Sweet Home"
+        },
+        {
+            src: jun23rd21,
+            date: "23 June 2021",
+            place: "Home Sweet Home"
+        },
+        {
+            src: jun23rd21_2,
+            date: "23 June 2021",
+            place: "Home Sweet Home"
+        },
+    ],
+    July: [
+        {
+            src: jul23rd22,
+            date: "23 July 2022",
+            place: "Lonavla, Tiger Point"
+        },
+        {
+            src: jul23rd22_2,
+            date: "23 July 2022",
+            place: "Lonavla, On Road"
+        },
+        {
+            src: jul24th22,
+            date: "24 July 2022",
+            place: "Mumbai, AC train"
+        },
+        {
+            src: jul30th22,
+            date: "30 July 2022",
+            place: "Mumbai, Tarangan"
+        },
+    ],
+    August: [
+        {
+            src: aug6th21,
+            date: "6 August 2021",
+            place: "Mumbai, Anumati"
+        },
+        {
+            src: aug23rd21,
+            date: "23 August 2021",
+            place: "Mumbai, Hiranandani"
+        },
+        {
+            src: aug23rd21_2,
+            date: "23 August 2021",
+            place: "Mumbai, Hiranandani"
+        },
+        {
+            src: aug23rd22,
+            date: "23 August 2021",
+            place: "Mumbai, Madras Cafe"
+        },
+    ],
+    September: [
+        {
+            src: sep23rd22,
+            date: "23 September 2022",
+            place: "Mumbai, Hub"
+        },
+        {
+            src: sep24th21,
+            date: "24 September 2021",
+            place: "Mumbai, Baithak"
+        },
+        {
+            src: sep30th21,
+            date: "30 September 2021",
+            place: "Mac D"
+        },
     ]
-
 
 }
 export default data;

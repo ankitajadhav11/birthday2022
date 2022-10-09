@@ -15,14 +15,17 @@ function ImageSlider({ month }) {
                                 </video> :
                                 <img width="100%" src={image.src} alt={image.date} />
                         }
-                        <div className='infoDiv'>
-                            <Typography className='info'>
-                                🗓 {image.date}
-                            </Typography>
-                            <Typography className='info'>
-                                📌 {image.place}
-                            </Typography>
-                        </div>
+                        {
+                            image.date ?
+                                <div className='infoDiv'>
+                                    <Typography className='info'>
+                                        🗓 {image.date}
+                                    </Typography>
+                                    <Typography className='info'>
+                                        📌 {image.place}
+                                    </Typography>
+                                </div> : ""
+                        }
                     </Card>
                 </Carousel.Item>
             }) : null}
