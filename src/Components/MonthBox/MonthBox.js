@@ -12,7 +12,7 @@ function MonthBox({
     currentTime,
     subtitle
 }) {
-    const [isUnlocked, setIsUnlocked] = useState(true);
+    const [isUnlocked, setIsUnlocked] = useState(false);
     const [daysRemaining, setDaysRemaining] = useState(null);
     const [hoursRemaining, setHoursRemaining] = useState(null);
     const [minuetsRemaining, setMinuetsRemaining] = useState(null);
